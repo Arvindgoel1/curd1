@@ -1,2 +1,3 @@
 # curd1
-curd operation with node js.
+curd operation with node js using sequelize.
+
